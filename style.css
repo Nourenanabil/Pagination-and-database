@@ -1,0 +1,23 @@
+body{
+  background-color:#505050;
+
+}
+.table-responsive{
+  display: inline-block;
+  	min-height: 60%;
+  postion:absolute;
+background-image: url("back2.jpg");
+color: white;
+width: 70%;
+margin-left: 15%;
+margin-top: 7%;
+opacity: 0.8;
+  -webkit-box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.82);
+box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.82);
+border-radius:5px;
+}
+
+#search {
+  width: 450px;
+
+}
